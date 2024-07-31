@@ -8,4 +8,4 @@
 #### Laney_REU_2024_draft6_similarity_val_change1: tested different threshold values for cosine similarity to classify them as duplicate or not duplicate 
 #### Laney_REU_2024_draft8_top_k: created a function to output k number of similar bugs rather than bugs above a certain similarity threshold 
 #### Laney_REU_2024_draft9: performed recall and precision on the top k similar bugs
-
+#### binary_classfication test MLP, BERT and Native Bayes for determining if a bug is a duplicate or not
